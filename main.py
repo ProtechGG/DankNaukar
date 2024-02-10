@@ -70,7 +70,7 @@ async def meme(ctx):
         client_id="91EfXYjLNXtRaelBGke9jQ",
         client_secret="1gdFQht-nUmMpuHHqFtZT_B0y7YIBg",
         username="ProtechG",
-        password="Kushagra123",
+        password="gay123",
         user_agent="dank_naukar"
     )
     all_subs = []
