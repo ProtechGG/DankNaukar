@@ -225,7 +225,7 @@ async def cpepe(ctx):
         client_id="91EfXYjLNXtRaelBGke9jQ",
         client_secret="1gdFQht-nUmMpuHHqFtZT_B0y7YIBg",
         username="ProtechG",
-        password="Kushagra123",
+        password="gaaayyss",
         user_agent="dank_naukar"
     )
     all_subs = []
